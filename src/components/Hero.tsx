@@ -51,9 +51,14 @@ const Hero = () => {
             >
               Learn More About Me
             </button>
-            <button className="border-2 border-blue-600 text-blue-600 px-8 py-3 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300">
+            <a
+              href="https://drive.google.com/file/d/1ZzhhWTu7vAu9kyIWmpHx5RxtB6ICalXa/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="border-2 border-blue-600 text-blue-600 px-8 py-3 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-300 text-center"
+            >
               Download Resume
-            </button>
+            </a>
           </div>
         </div>
       </div>

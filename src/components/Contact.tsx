@@ -102,10 +102,10 @@ const Contact = () => {
               <p className="text-gray-600 text-sm mb-4">
                 Currently seeking new challenges in DevOps engineering, cloud architecture, and infrastructure automation.
               </p>
-              <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 text-sm flex items-center gap-2">
+              {/* <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 text-sm flex items-center gap-2">
                 <ExternalLink size={16} />
                 View Resume
-              </button>
+              </button> */}
             </div>
           </div>
 
