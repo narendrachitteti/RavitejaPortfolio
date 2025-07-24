@@ -11,13 +11,10 @@ const Hero = () => {
       <div className="absolute inset-0 bg-grid-pattern opacity-5"></div>
       <div className="container mx-auto px-6 text-center relative z-10">
         <div className="max-w-4xl mx-auto">
-          <div className="mb-8 animate-fadeInUp">
-            <img
-              src="https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop"
-              alt="PMV Raviteja"
-              className="w-32 h-32 rounded-full mx-auto mb-6 shadow-lg border-4 border-white"
-            />
-          </div>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
           
           <h1 className="text-5xl md:text-6xl font-bold text-gray-800 mb-6 animate-fadeInUp animation-delay-200">
             Hi, I'm <span className="text-blue-600">PMV Raviteja</span>
