@@ -5,7 +5,7 @@ const Experience = () => {
   const experiences = [
     {
       title: "AWS DevOps Engineer",
-      company: "Areteans Technology Solutions",
+      company: "Demo Technology Solutions",
       location: "Remote",
       duration: "Dec 2021 – Dec 2024",
       type: "Full-time",
@@ -21,7 +21,7 @@ const Experience = () => {
     },
     {
       title: "Business Development Executive",
-      company: "Genpact India",
+      company: "your company India",
       location: "India",
       duration: "Feb 2018 – Aug 2021",
       type: "Full-time",
