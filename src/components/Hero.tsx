@@ -17,7 +17,7 @@ const Hero = () => {
        <br/>
           
           <h1 className="text-5xl md:text-6xl font-bold text-gray-800 mb-6 animate-fadeInUp animation-delay-200">
-            Hi, I'm <span className="text-blue-600">PMV Raviteja</span>
+            Hi, I'm <span className="text-blue-600">Raviteja</span>
           </h1>
           
           <h2 className="text-2xl md:text-3xl text-gray-600 mb-8 animate-fadeInUp animation-delay-400">
