@@ -63,7 +63,7 @@ const About = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-gray-800">Phone</div>
-                    <div className="text-gray-600">(+91) 93983 57445</div>
+                    <div className="text-gray-600">(+91) 9848098480</div>
                   </div>
                 </div>
 
@@ -73,7 +73,7 @@ const About = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-gray-800">Email</div>
-                    <div className="text-gray-600">ravitejapmv79@gmail.com</div>
+                    <div className="text-gray-600">rajaraviboom@gmail.com</div>
                   </div>
                 </div>
               </div>
